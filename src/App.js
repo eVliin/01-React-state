@@ -20,7 +20,7 @@ export default class aboutMe extends Component {
           <li>{this.state.msc[0]}</li>
           <li>{this.state.msc[2]}</li>
         </ul>
-        <img src={morango} alt="morangos" />
+        <img src={morango} alt="ilustração de morangos cortados" />
       </div>
     );
   }
